@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on Turkcell
 - 🌱 I'm keep learning and improving Devnet life-style
-- 💬 Ask me about Network and Network automation
+- 💬 Ask me about Network and Network Automation
 - 📫 How to reach me: https://www.linkedin.com/in/mertkulac/
 
 ![Alt Text](https://68.media.tumblr.com/fe195e9db7b66a729194a43370a21795/tumblr_oja6h1f90C1rzss56o1_500.gif)
