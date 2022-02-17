@@ -1,6 +1,6 @@
 <h1 align="center">
   Welcome to My GitHub Page
-  <img src="https://png.pngitem.com/pimgs/s/123-1239770_lightsaber-vector-by-jackspade2012-star-wars-lightsaber-png.png" width="50">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTHnX86Re9Ry57cjEng2MsijlzHVA9RP8Vqw&usqp=CAU" width="50">
 </h1>
 
 - 🔭 I’m currently working on Turkcell
