@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTHnX86Re9Ry57cjEng2MsijlzHVA9RP8Vqw&usqp=CAU" width="35">
   Welcome to My GitHub Page
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTHnX86Re9Ry57cjEng2MsijlzHVA9RP8Vqw&usqp=CAU" width="35">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTHnX86Re9Ry57cjEng2MsijlzHVA9RP8Vqw&usqp=CAU" width="25">
 </h1>
 
 - 🔭 I’m currently working on Turkcell
