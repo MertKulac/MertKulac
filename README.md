@@ -1,7 +1,7 @@
 <h1 align="center">
-  <img src="https://cdn4.vectorstock.com/i/1000x1000/79/63/round-icon-program-code-structure-html-vector-28707963.jpg" width="35">
+  <img src="https://cdn4.vectorstock.com/i/1000x1000/79/63/round-icon-program-code-structure-html-vector-28707963.jpg" width="30">
   Welcome to My GitHub Page
-  <img src="https://cdn4.vectorstock.com/i/1000x1000/79/63/round-icon-program-code-structure-html-vector-28707963.jpg" width="33">
+  <img src="https://cdn4.vectorstock.com/i/1000x1000/79/63/round-icon-program-code-structure-html-vector-28707963.jpg" width="30">
 </h1>
 
 - 🔭 I’m currently working on Turkcell
