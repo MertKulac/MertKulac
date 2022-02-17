@@ -1,6 +1,6 @@
 <h1 align="center">
   Welcome to My GitHub Page
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+  <img src="https://68.media.tumblr.com/fe195e9db7b66a729194a43370a21795/tumblr_oja6h1f90C1rzss56o1_500.gif" width="28">
 </h1>
 
 - 🔭 I’m currently working on Turkcell
