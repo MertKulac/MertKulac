@@ -1,7 +1,7 @@
 <h1 align="center">
-  <img src="https://cdn.dribbble.com/users/320114/screenshots/2575134/code_dribbble.gif" width="60">
+  <img src="https://c.tenor.com/k2GZAYWuTS4AAAAi/backhand-index-pointing-down-joypixels.gif" width="60">
   Welcome to My GitHub Page
-  <img src="https://cdn.dribbble.com/users/320114/screenshots/2575134/code_dribbble.gif" width="60">
+  <img src="https://c.tenor.com/k2GZAYWuTS4AAAAi/backhand-index-pointing-down-joypixels.gif" width="60">
 </h1>
 
 - 🔭 I’m currently working on Turkcell
