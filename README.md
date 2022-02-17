@@ -1,6 +1,6 @@
 <h1 align="center">
   Welcome to My GitHub Page
-  <img src="https://y.yarn.co/59ec145d-ea5a-4e45-be0e-d9956e209e1d_text.gif" width="28">
+  <img src="https://icon-library.com/images/icon-programmer/icon-programmer-25.jpg" width="28">
 </h1>
 
 - 🔭 I’m currently working on Turkcell
