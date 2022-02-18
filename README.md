@@ -1,7 +1,7 @@
 <h1 align="center">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/code-280-460136.png" width="25">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/code-280-460136.png" width="22">
   Welcome to My GitHub Page
-  <img src="https://cdn.iconscout.com/icon/free/png-256/code-280-460136.png" width="25">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/code-280-460136.png" width="22">
 </h1>
 
 - 🔭 I’m currently working on Turkcell
