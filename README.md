@@ -9,7 +9,8 @@
 - 💬 Ask me about Network and Network Automation
 - 📫 How to reach me: https://www.linkedin.com/in/mertkulac/
 
-![image](https://user-images.githubusercontent.com/96883175/154636480-2f5aa2b4-1843-497d-bd1b-92fae1d01c81.png)
+![image](https://user-images.githubusercontent.com/96883175/154636480-2f5aa2b4-1843-497d-bd1b-92fae1d01c81.png) ![image](https://user-images.githubusercontent.com/96883175/154636702-4f0576de-d49c-434d-86a8-34d1a8132956.png)
+
 
 
 ![Alt Text](https://68.media.tumblr.com/fe195e9db7b66a729194a43370a21795/tumblr_oja6h1f90C1rzss56o1_500.gif)
