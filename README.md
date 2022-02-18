@@ -1,7 +1,7 @@
 <h1 align="center">
-  <img src="https://thumbs.dreamstime.com/b/barcode-icon-black-bar-code-symbol-shopping-concept-147574907.jpg" width="35">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/code-280-460136.png" width="35">
   Welcome to My GitHub Page
-  <img src="https://thumbs.dreamstime.com/b/barcode-icon-black-bar-code-symbol-shopping-concept-147574907.jpg" width="35">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/code-280-460136.png" width="35">
 </h1>
 
 - 🔭 I’m currently working on Turkcell
