@@ -1,7 +1,7 @@
 <h1 align="center">
-  <img src="https://c.tenor.com/k2GZAYWuTS4AAAAi/backhand-index-pointing-down-joypixels.gif" width="35">
+  <img src="https://thumbs.dreamstime.com/b/barcode-icon-black-bar-code-symbol-shopping-concept-147574907.jpg" width="35">
   Welcome to My GitHub Page
-  <img src="https://c.tenor.com/k2GZAYWuTS4AAAAi/backhand-index-pointing-down-joypixels.gif" width="35">
+  <img src="https://thumbs.dreamstime.com/b/barcode-icon-black-bar-code-symbol-shopping-concept-147574907.jpg" width="35">
 </h1>
 
 - 🔭 I’m currently working on Turkcell
