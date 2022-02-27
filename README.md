@@ -4,6 +4,10 @@
   <img src="https://cdn.iconscout.com/icon/free/png-256/code-280-460136.png" width="22">
 </h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Homo+sapiens;I+am+Mert+Kulac;Self+taught+developer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=30">
+</p>
+
 - 🔭 I’m currently working on Turkcell
 - 🌱 I'm keep learning and improving Devnet life-style
 - 💬 Ask me about Network and Network Automation
