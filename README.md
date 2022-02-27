@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+Mert+Kulac;Network+Automation&font=Fira%20Code&center=true&width=440&height=45&color=67F7EC&vCenter=true&size=30">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+Mert+Kulac;Network+Automation&font=Fira%20Code&center=true&width=440&height=45&color=65D1F7&vCenter=true&size=30">
 </p>
 
 - 🔭 I’m currently working on Turkcell
