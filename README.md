@@ -12,6 +12,7 @@
 - 🌱 I'm keep learning and improving Devnet life-style
 - 💬 Ask me about Network and Network Automation
 - 📫 How to reach me: https://www.linkedin.com/in/mertkulac/
+- All of my projects are available at https://github.com/halitozerr?tab=repositories
 
  ![image](https://user-images.githubusercontent.com/96883175/154637725-e48e3ccf-49d5-4624-9c38-f005952e2c62.png) ![image](https://user-images.githubusercontent.com/96883175/154644792-9d27387c-ae5f-4465-9b23-ebc42b6519b9.png)
 
