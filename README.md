@@ -38,8 +38,6 @@
 </a> 
 </p>
 
- ![image](https://user-images.githubusercontent.com/96883175/154637725-e48e3ccf-49d5-4624-9c38-f005952e2c62.png) ![image](https://user-images.githubusercontent.com/96883175/154644792-9d27387c-ae5f-4465-9b23-ebc42b6519b9.png)
-
 ![Alt Text](https://68.media.tumblr.com/fe195e9db7b66a729194a43370a21795/tumblr_oja6h1f90C1rzss56o1_500.gif)
 
 ![snake gif](https://github.com/MertKulac/MertKulac/blob/output/github-contribution-grid-snake.gif)
