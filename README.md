@@ -8,11 +8,13 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=I+am+Mert+Kulac;Network+Automation&font=Fira%20Code&center=true&width=440&height=45&color=65D1F7&vCenter=true&size=30">
 </p>
 
-- 🔭 I’m currently working on Turkcell
+- 🔭 All of my projects are available at https://github.com/MertKulac?tab=repositories
 - 🌱 I'm keep learning and improving Devnet life-style
-- 💬 Ask me about Network and Network Automation
-- 📫 How to reach me: https://www.linkedin.com/in/mertkulac/
-- All of my projects are available at https://github.com/MertKulac?tab=repositories
+
+### Connect with me:
+
+<p><a href="https://www.linkedin.com/in/mertkulac/" rel="nofollow"><img src="https://camo.githubusercontent.com/bb14dfae5e125184ee97e55a8e8e227d72ac96bb53791a835ead9e0bfdf0b9df/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d3030373742352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width:100%;"></a>
+<a href="mailto:mertkulac00@gmail.com"><img src="https://camo.githubusercontent.com/fb6d3697ea1b63b88f1a5c69c00d63da09b38c6247447b3ccaf7b8eedb407821/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f65e280916d61696c2d4431343833362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d474d61696c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&amp;logo=GMail&amp;logoColor=white" style="max-width:100%;"></a></p>
 
 #### Languages and Tools
 <p align="left"> 
