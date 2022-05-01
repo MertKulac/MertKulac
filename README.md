@@ -23,7 +23,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40" style="max-width:100%;"> 
 </a>
 <a href="https://www.linux.org/" rel="nofollow"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="ansible" width="40" height="40" style="max-width:100%;"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="max-width:100%;"> 
+</a>
+<a href="https://www.jetbrains.com/pycharm/download/" rel="nofollow">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40" style="max-width:100%;"> 
 </a> 
 </p>
 
