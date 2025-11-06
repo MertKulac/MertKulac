@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Apologize%20for%20everything...;Please%20stop...&font=Fira%20Code&center=true&width=540&height=45&color=65D1F7&size=30" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Apologize%20for%20everything...;Please%20stop:(...&font=Fira%20Code&center=true&width=540&height=45&color=65D1F7&size=30" />
 </p>
 
 - 🔭 All of my projects are available at https://github.com/MertKulac?tab=repositories
