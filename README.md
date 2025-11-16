@@ -5,8 +5,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Effortless+Network+Automation+and+DevOps;Yet+Again+May+the+Code+Be+With+You&font=Fira+Code&center=true&width=540&height=60&color=65D1F7&size=30" alt="typing svg"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Effortless+Network+Automation+and+DevOps;Yet+Again%2C+May+the+Code+Be+With+You&font=Fira+Code&center=true&width=540&height=60&color=65D1F7&size=30" alt="typing svg"/>
 </p>
+
 
 - 🔭 All of my projects are available at https://github.com/MertKulac?tab=repositories
 - 🌱 I'm keep learning and improving Devnet life-style
